@@ -7,7 +7,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-    print("Git changing")
+    print("This is an ersatz of the original text")
     print("The tags are in the following form")
 def run_tale():
     print("Run tale")
